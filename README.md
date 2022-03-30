@@ -1,2 +1,2 @@
 # My_Portfolio
-HTMl and CSS
+HTML and CSS
